@@ -1,0 +1,104 @@
+.header {
+background-color: #fff;
+    height: 80px;
+    font-size: 36px;
+    font-weight: 700; 
+    line-height: 44px;
+    letter-spacing: 0.01em; 
+    text-align: left;
+
+}
+
+.container {
+    max-width: 1157px;
+    height: auto;
+    /* background: #F0F2FA; */
+
+}
+
+
+.form_title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+label {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    margin-bottom: 16px;
+
+}
+
+input {
+    border: 1px solid #2F49D199
+}
+
+.submit {
+    width: 314px;
+    padding: 13px;
+    display: block;
+    margin-left: auto;
+    color: #fff;
+}
+
+.search {
+    background-color: #fff;
+
+}
+
+.sidebar {
+    background: #2F49D1;
+}
+
+.sidebar_text {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+}
+
+.sidebar_text1 {
+    margin-left: -50px;
+    padding: 0;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+}
+.hidden_pleceholder{
+    border: 1px solid #2F49D199;
+    color: #a6abb4;
+}
+
+
+.madal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    max-width: 900px;
+    height: 900px;
+    max-height: 90vh; 
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #2eb4ae;
+  }
+  .madal_button{
+  width: 50px;
+  height: 30px;
+   
+  }
+  .madal_button:hover{
+    background-color: red;
+
+   
+  }
